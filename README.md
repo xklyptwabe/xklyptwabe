@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=500&height=30&lines=HI%2C+I'm+Max)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Max)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, and continuous learning. Here's a little about me:
 
@@ -8,24 +8,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 📝 I have knowledge of programming languages ​​such as C, C++, JavaScript and Python
 - ⚡ I have extensive experience in developing bots for Discord and Telegram.
 - 🌐 Previously worked in website development
-
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
     <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-    <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
     <code><img width="4%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
   </p>
 </details>
 
