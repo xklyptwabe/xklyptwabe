@@ -1,6 +1,6 @@
-# Hey, I'm Max👋
+#<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hey, I'm Max👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, and continuous learning. Here's a little about me:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer%F0%9F%8E%93;Front+End+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
@@ -9,33 +9,25 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ⚡ I have extensive experience in developing bots for Discord and Telegram.
 - 🌐 Previously worked in website development
 
-## Languages and Tools
-
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![JavaScript](/assets/svg/javascript.svg)
-![Typescript](/assets/svg/typescript.svg)
-![Node.js](/assets/svg/nodejs.svg)
-![Python](/assets/svg/python.svg)
-![MongoDB](/assets/svg//mongodb.svg)
-![MySQL](/assets/svg/mysql.svg)
-![Git](/assets/svg/git.svg)
-![GitHub](/assets/svg/github.svg)
-![HTML5](/assets/svg/html.svg)
-![CSS3](/assets/svg/css.svg)
-![SASS](/assets/svg/sass.svg)
-![Figma](/assets/svg/figma.svg)
+<details open>
+  <summary><h2>🛠 Skills and Tools</h2></summary>
+  <p>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+    <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+    <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
+    <code><img width="4%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
+    <code><img width="4%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"></code>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+    <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
+  </p>
+</details>
 
 <details open>
 <summary><h2>🔥 Stats</h2></summary>
