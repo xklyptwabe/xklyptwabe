@@ -12,16 +12,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p>
     <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=javascript"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=typescript)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=python)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=c)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=cpp)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=html)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=css3)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=mongodb)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=mysql)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=discord)"></code>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=telegram)"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=typescript"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=python"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=c"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=cpp"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=html"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=css3"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=mongodb"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=mysql"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=discord"></code>
+    <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=telegram"></code>
   </p>
 </details>
 
