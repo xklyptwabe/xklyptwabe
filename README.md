@@ -1,9 +1,4 @@
-<table>
-<tr>
-<td><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></td>
-<td><h1>Hi, I'm Max</h1></td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4280F7&width=435&lines=HI%2C+i'm+Max" alt="Typing SVG" /></a>
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, and continuous learning. Here's a little about me:
 
