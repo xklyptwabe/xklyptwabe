@@ -6,12 +6,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h2>About Me</h2>
+<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 - 💻 I'm a Software Engineer student at Lviv Polytechnic National University
+  
 - 📝 I have knowledge of programming languages ​​such as C, C++, JavaScript and Python
-- ⚡ I have extensive experience in developing bots for Discord and Telegram.
+
+- ⚡ I have extensive experience in developing bots for Discord and Telegram
+
 - 🌐 Previously worked in website development
 
 &nbsp;
