@@ -1,4 +1,4 @@
-#<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hey, I'm Max👋
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">#Hey, I'm Max👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, and continuous learning. Here's a little about me:
 
