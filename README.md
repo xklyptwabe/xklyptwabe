@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p>
-    <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=javascript)"></code>
+    <code><img width="4%" src="[(https://skills.syvixor.com/api/icons?perline=15&i=javascript)](https://skills.syvixor.com/api/icons?perline=15&i=javascript)"></code>
     <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=typescript)"></code>
     <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=python)"></code>
     <code><img width="4%" src="(https://skills.syvixor.com/api/icons?perline=15&i=c)"></code>
