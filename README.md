@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=435&height=30&lines=HI%2C+I'm+Max)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=209652&background=FF8DEA00&center=true&vCenter=true&width=500&height=30&lines=HI%2C+I'm+Max)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, and continuous learning. Here's a little about me:
 
