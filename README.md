@@ -40,20 +40,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
     <code><img width="4%" src="https://skills.syvixor.com/api/icons?perline=15&i=telegram"></code>
   </p>
 </details>
-
-<details open>
-<summary><h2>🔥 Stats</h2></summary>
-<p align="center">
-  <!-- Commit Snake! -->
-  
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
-       alt"Check out my commit history!" />
-  </a>
-  
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
-         alt"Check out my commit history!" />
-  </a>
-</p>
-</details>
